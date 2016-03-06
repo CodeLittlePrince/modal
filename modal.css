@@ -46,11 +46,11 @@ body,html{
 	color:#999;
 }
 .m-modal .modal_head{
-	background-color:#3498db;
+	background-color:#f1d1c1;
 	line-height:1.5;
 	padding:6px 20px;
 	color:#fff;
-	border-bottom:1px solid #258cd1;
+	border-bottom:1px solid #ffddcc;
 }
 .m-modal .modal_body{
 	background-color:#fff;
@@ -78,7 +78,7 @@ body,html{
 	background-color:#fff;
 	padding:8px;
 	cursor:pointer;
-	color:#3498db;
+	color:#111;
 	text-align:center;
 	text-decoration:none;
 	-webkit-transition:background-color 0.2s ease-in;
@@ -86,11 +86,11 @@ body,html{
 	transition:background-color 0.2s ease-in;
 }
 .m-modal .modal_foot a:hover{
-	background-color:#71b7e6;
+	background-color:#f1d1c1;
 	color:#fff;
 }
 .m-modal .modal_foot a:active{
-	background-color:#3498db;
+	background-color:#111;
 	color:#fff;
 }
 .m-modal .modal_foot a:first-child{
